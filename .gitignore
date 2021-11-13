@@ -130,3 +130,6 @@ dmypy.json
 
 # monzo_manager database
 *.db
+
+# debug file
+debug.py
